@@ -1,0 +1,6 @@
+{
+    "passphrase": "1234",
+    "broker": "localhost", 
+    "topic": "iot/secure_channel",
+    "image_path": "/home/big_h/Desktop/steganographic_key_mgmt_project/stego_image.jpg"
+}
